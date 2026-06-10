@@ -58,7 +58,16 @@ Small and Medium Enterprises (SMEs) are increasingly targeted by cybercriminals 
 4. **Validate** the framework through 3 real-world SME case studies
 
 ---
+## 🖥️ Critical SME Assets
 
+- Employee Accounts
+- Customer Data
+- Financial Records
+- Business Applications
+- Email Systems
+- Cloud Services
+- Network Infrastructure
+---
 ## ⚠️ Top 5 Threats Identified
 
 | # | Threat | Description |
@@ -70,7 +79,16 @@ Small and Medium Enterprises (SMEs) are increasingly targeted by cybercriminals 
 | 05 | **Unpatched Software** | Outdated systems with exploitable vulnerabilities |
 
 ---
+## 🔬 Methodology
 
+1. Identify SME assets and critical business processes.
+2. Analyze common cyber threats and vulnerabilities.
+3. Assign Likelihood (1–5) and Impact (1–5) values.
+4. Calculate Risk Score = Likelihood × Impact.
+5. Rank risks by severity.
+6. Recommend mitigation controls aligned with NIST CSF.
+7. Validate results using SME case studies.
+---
 ## 📊 Risk Assessment Model
 
 ### Formula
@@ -141,22 +159,7 @@ Risk Score = Likelihood (1–5) × Impact (1–5)
 4. Weak passwords and unpatched software increase vulnerability significantly
 5. Risk assessment helps SMEs prioritize threats based on likelihood and impact
 6. Controls like MFA, firewalls, backups, and training effectively reduce cyber risk
-
 ---
----
-
-## 🔬 Methodology
-
-1. Identify SME assets and critical business processes.
-2. Analyze common cyber threats and vulnerabilities.
-3. Assign Likelihood (1–5) and Impact (1–5) values.
-4. Calculate Risk Score = Likelihood × Impact.
-5. Rank risks by severity.
-6. Recommend mitigation controls aligned with NIST CSF.
-7. Validate results using SME case studies.
-
----
-
 ---
 ## ✅ SME Cybersecurity Best Practices
 
@@ -167,22 +170,8 @@ Risk Score = Likelihood (1–5) × Impact (1–5)
 - Use endpoint protection solutions
 - Implement least-privilege access controls
 - Perform periodic risk assessments
-
 ---
-
 ---
-## 🖥️ Critical SME Assets
-
-- Employee Accounts
-- Customer Data
-- Financial Records
-- Business Applications
-- Email Systems
-- Cloud Services
-- Network Infrastructure
-
----
-
 ## 📁 Repository Structure
 
 ```
