@@ -24,18 +24,19 @@
 
 ## 📋 Table of Contents
 
-- [Overview](#-overview)
-- [Objectives](#-objectives)
-- [Top 5 Threats Identified](#-top-5-threats-identified)
-- [Risk Assessment Model](#-risk-assessment-model)
-- [NIST Framework Alignment](#-nist-framework-alignment)
-- [Case Studies](#-case-studies)
-- [Key Findings](#-key-findings)
-- [Methodology](#-methodology)
-- [SME Cybersecurity Best Practices](#-sme-cybersecurity-best-practices)
-- [Critical SME Assets](#-critical-sme-assets)
-- [Repository Structure](#-repository-structure)
-- [References](#-references)
+- "Overview" (#-overview)
+- "Objectives" (#-objectives)
+- "Critical SME Assets" (#-critical-sme-assets)
+- "Top 5 Threats Identified" (#-top-5-threats-identified)
+- "Methodology" (#-methodology)
+- "Risk Assessment Model" (#-risk-assessment-model)
+- "NIST Framework Alignment" (#-nist-framework-alignment)
+- "Case Studies" (#-case-studies)
+- "Key Findings" (#-key-findings)
+- "SME Cybersecurity Best Practices" (#-sme-cybersecurity-best-practices)
+- "Repository Structure" (#-repository-structure)
+- "References" (#-references)
+- "License" (#-license)
 
 ---
 
