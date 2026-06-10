@@ -140,6 +140,45 @@ Risk Score = Likelihood (1–5) × Impact (1–5)
 6. Controls like MFA, firewalls, backups, and training effectively reduce cyber risk
 
 ---
+---
+
+## 🔬 Methodology
+
+1. Identify SME assets and critical business processes.
+2. Analyze common cyber threats and vulnerabilities.
+3. Assign Likelihood (1–5) and Impact (1–5) values.
+4. Calculate Risk Score = Likelihood × Impact.
+5. Rank risks by severity.
+6. Recommend mitigation controls aligned with NIST CSF.
+7. Validate results using SME case studies.
+
+---
+
+---
+## ✅ SME Cybersecurity Best Practices
+
+- Enable Multi-Factor Authentication (MFA)
+- Maintain regular offline backups
+- Conduct employee security awareness training
+- Apply software patches promptly
+- Use endpoint protection solutions
+- Implement least-privilege access controls
+- Perform periodic risk assessments
+
+---
+
+---
+## 🖥️ Critical SME Assets
+
+- Employee Accounts
+- Customer Data
+- Financial Records
+- Business Applications
+- Email Systems
+- Cloud Services
+- Network Infrastructure
+
+---
 
 ## 📁 Repository Structure
 
