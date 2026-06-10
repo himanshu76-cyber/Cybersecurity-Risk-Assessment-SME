@@ -31,6 +31,9 @@
 - [NIST Framework Alignment](#-nist-framework-alignment)
 - [Case Studies](#-case-studies)
 - [Key Findings](#-key-findings)
+- [Methodology](#-methodology)
+- [SME Cybersecurity Best Practices](#-sme-cybersecurity-best-practices)
+- [Critical SME Assets](#-critical-sme-assets)
 - [Repository Structure](#-repository-structure)
 - [References](#-references)
 
